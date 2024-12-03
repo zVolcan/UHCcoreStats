@@ -1,0 +1,4 @@
+name: UHCcore-Stats
+version: '${project.version}'
+main: org.zvolcan.uhccorestats.UHCcore_Stats
+api-version: '1.13'
